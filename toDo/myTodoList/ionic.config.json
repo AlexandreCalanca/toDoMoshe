@@ -1,5 +1,5 @@
 {
-  "name": "ToDo",
+  "name": "myTodoList",
   "integrations": {
     "capacitor": {}
   },
